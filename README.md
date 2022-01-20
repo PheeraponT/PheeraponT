@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 -->
 
 **About me**
-
-- 💼  
+- 🌱 I’m currently learning Flutter
+- 💼 
 - 🤔 
+- 
+**Connect with me**
 
 **Languages and Tools:**
 
