@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 **About me**
-- 🌱 I’m currently learning Flutter
-- 💼 
-- 🤔 
-- 
+- 🌱 I’m currently learning Flutter & Scum Master
+- 💼 CodeHard; 
+
 **Connect with me**
+https://www.linkedin.com/in/phirapon-thammanussorn-020652131/
 
 **Languages and Tools:**
 
